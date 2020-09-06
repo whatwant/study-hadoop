@@ -39,6 +39,14 @@ Hadoop 관련된 자료 정리
 - Note
   - [빅데이터_기술전문가_과정.md](https://github.com/whatwant/study-hadoop/blob/master/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EC%88%A0%EC%A0%84%EB%AC%B8%EA%B0%80_%EA%B3%BC%EC%A0%95.md)
 
+### 성균관 대학교 구자환 교수님
+- Title: 현장강의 하둡 클러스터 동작 방식 3가지를 알아보고 멀티노드 클러스터를 구축해 보기
+- Date: 2020.02.22
+- Link: https://www.youtube.com/watch?v=MqL0qfNff_I
+- Comment
+  - AWS 환경에서 하둡 클러스터 설치하는 과정 설명
+  - 하둡 설치 유형에 대해서 알 수 있음. 시스템 구성에 대해서 쉽게 이해됨
+
 
 ## 사례
 
