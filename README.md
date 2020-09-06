@@ -26,6 +26,18 @@ Hadoop 관련된 자료 정리
 - Note
   - [빅데이터경영.md](https://github.com/whatwant/study-hadoop/blob/master/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B2%BD%EC%98%81.md)
 
+### 빅데이터 기술전문가 과정
+- Title: 빅데이터 기술전문가 과정의 사전 온라인 학습과정
+- Date: 2020.08.02
+- Link
+  - 과목1 하둡 개요, 밴더, 실습환경: https://www.youtube.com/watch?v=QG-zySr4gSY
+  - 과목2 하둡 설치 및 실행 : https://www.youtube.com/watch?v=KDC2Nto4NfE
+  - 과목3 MapReducew 환경 구성 및 수행 : https://www.youtube.com/watch?v=VLoAm6fpgc0
+- Comment
+  - 서버 3대, CentOS 기준
+  - 실습 환경 구축 과정 설명인만큼 하나씩 친절히 설명해준다
+- Note
+  - [빅데이터_기술전문가_과정.md](https://github.com/whatwant/study-hadoop/blob/master/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EC%88%A0%EC%A0%84%EB%AC%B8%EA%B0%80_%EA%B3%BC%EC%A0%95.md)
 
 
 ## 사례
